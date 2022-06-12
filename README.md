@@ -1,6 +1,6 @@
 # USEFUL LINKS
 
-<h2><em> A collection of handy places on the internet that will be of great benefit for your next project </em></h2>
+<h2><em> A collection of handy places on the internet for your next project </em></h2>
 
  <div className="useful-links-div">
             <h2> Planning </h2> 
