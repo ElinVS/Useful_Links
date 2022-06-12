@@ -1,5 +1,5 @@
 <div>
-<img src="images/banner.png" title="Banner-image" **alt="Banner-image" width="1200" height="300"/>
+<img src="images/banner.png" title="Banner-image" **alt="Banner-image" width="1200" height="200"/>
 </div>
 
 <h2><em> A collection of handy places on the internet for your next project </em></h2>
